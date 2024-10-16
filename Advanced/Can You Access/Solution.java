@@ -26,6 +26,7 @@ public class Solution {
 			System.out.println("Unsuccessful Termination!!");
 		}
 	}//end of main
+	
 	static class Inner{
 		private class Private{
 			private String powerof2(int num){
